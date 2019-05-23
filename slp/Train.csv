@@ -1,0 +1,37 @@
+Name of Landmark,Adult Price to Enter (in GBP),Child Price to Enter (in GBP),Size (sq meters),Age (years),Privately Owned,Publicly Owned,Annual Popularity (in Millions)
+"Meiji Jingu Shrine, Tokyo",-0.930098268,-0.926084628,-0.999715822,-0.907724209,-1,1,-0.351530263
+"Sensoji Temple, Tokyo",-0.859993922,-0.926084628,-1,0.414204251,-1,1,-0.351530263
+"Sydney Opera House, Sydney",-0.539864249,-0.754043921,-0.999981758,-0.962674961,-1,1,-0.832564708
+"Universal Islands of Adventure, Orlando, FL",0.912470874,0.917943224,-0.999817324,-0.989631934,1,-1,-0.83386659
+"Smithsonian National Museum of Natural History, Washington D.C",-1,-1,-0.999987769,-0.897356143,-1,1,-0.836977868
+"Grand Palace, Bangkok",-0.754837402,-0.740760578,-0.999911356,-0.764644894,-1,1,-0.836977868
+"Great Smoky Mountains National Park, North Carolina and Tennessee",-1,-1,-0.14560903,-0.922239502,-1,1,-0.807284031
+"Musee du Louvre, Paris",-0.702765677,-1,-0.999999999,-0.776049767,-1,1,-0.807542091
+The White House,-1,-1,-0.999970453,-0.77501296,-1,1,-0.990997154
+Petronas Twin Towers,-0.697497721,-0.880021425,-0.999839655,-0.989631934,1,-1,-1
+Lincoln Memorial,-1,-1,-0.999732062,-0.909797823,-1,1,-0.881109468
+Alcatraz,-0.42761625,-0.640064274,-0.999963487,-0.952306895,-1,1,-0.982612149
+"Disneyland Park, Marne-la-Vallee, France",0.539053794,0.627423674,-0.990946029,-0.983411094,1,-1,-0.783357973
+"Disney's Animal Kingdom, Walt Disney World Resort, Lake Buena Vista, FL",0.766791612,0.763470809,-0.999045907,-0.988595127,1,-1,-0.788477239
+"Disney's Hollywood Studios, Walt Disney World Resort, Lake Buena Vista, FL",0.766791612,0.763470809,-0.999776723,-0.979263867,1,-1,-0.79041903
+"Universal Studios Japan, Osaka, Japan",0.030493364,-0.249062667,-0.999780783,-0.991705547,1,-1,-0.790639688
+"Notre Dame Cathedral, Paris",-0.824941749,-0.851955008,-0.999998079,-0.122861586,-1,1,-0.704583067
+"Golden Gate Park, San Francisco",-0.45598217,-0.591001607,-0.998335391,-0.856920684,-1,1,-0.726648867
+"Balboa Park, San Diego",-1,-1,-0.998028449,-0.853810264,-1,1,-0.726648867
+"Lotte World, Seoul",-0.220139803,-0.33219068,-0.999947247,-0.979263867,1,-1,-0.850217348
+"Everland, Gyeonggi-Do, South Korea",-0.261067774,-0.375682914,-0.999598079,-0.965785381,1,-1,-0.852357731
+"Taj Mahal, Agra, India",-0.696079425,-1,-0.999931007,-0.608087092,-1,1,-0.848010768
+Grand Canyon National Park,-0.696079425,-0.678628816,1,-0.906687403,-1,1,-0.872724464
+"Burj Khalifa, Dubai, UAE",-0.431668524,-0.554793787,-0.999874379,-1,1,-1,-0.972241223
+"Eiffel Tower, Paris, France",-0.55627596,-0.766256026,-0.999994641,-0.875583204,-1,1,-0.861250248
+The Colosseum (Flavian Amphitheatre),-0.791105258,-1,-0.999991908,1,-1,1,-0.925241069
+Empire State Building,-0.690608854,-0.672844135,-0.999996742,-0.918092276,1,-1,-0.936273969
+"Disneyland Park, Anaheim, CA",0.8522946,0.868880557,-0.999861985,-0.945049248,1,-1,-0.655994175
+"Forbidden City, Beijing",-0.884307568,-1,-0.999707702,-0.389320892,-1,1,-0.675014894
+"Golden Gate National Recreation Area, San Francisco",-1,-1,-0.865225361,-0.961638154,-1,1,-0.69820338
+"Palace of Versailles, France",-0.738020464,-1,-0.996670755,-0.66096423,-1,1,-0.847412299
+"Ocean Park, Hong Kong",-0.239185493,-0.597000536,-0.9996265,-0.966822188,1,-1,-0.848562413
+"The Zocalo, Mexico City",-1,-1,-0.999976642,-0.795749093,-1,1,0.862088749
+"Epcot, Walt Disney World Resort, Lake Buena Vista, FL",0.766791612,0.763470809,-0.999508757,-0.972006221,1,-1,-0.765727399
+"St. Peter's Basilica, Vatican City, Italy",-1,-1,-0.999990975,-0.478486262,-1,1,-0.770780467
+"Navy Pier, Chicago",-1,-1,-0.999943187,-0.903576983,1,-1,-0.817118648
